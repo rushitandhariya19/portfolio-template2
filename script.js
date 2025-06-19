@@ -112,6 +112,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    
+
     // Mobile Flip
     const setupMobileFlip = () => {
         const cards = document.querySelectorAll('.project-card');
